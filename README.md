@@ -1,3 +1,3 @@
 # bggn213
 
-My class work for Bioinformatics class at UCSD.
+My class work for Bioinformatics class at UC San Diego.
