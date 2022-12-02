@@ -1,7 +1,7 @@
 ---
 title: "Class 10"
 author: "Diana Lopez"
-format: pdf
+format: gfm
 editor: visual
 ---
 
@@ -57,16 +57,14 @@ hist(candy[,"winpercent"])
 
     No
 
-```{=html}
 <!-- -->
-```
+
 -   **Q10**. Is the center of the distribution above or below 50%?
 
     Below 50%
 
-```{=html}
 <!-- -->
-```
+
 -   **Q11**. On average is chocolate candy higher or lower ranked than fruit candy?
 
 ```{r}
@@ -151,9 +149,8 @@ ggplot(candy)+
 
     Reese's miniatures
 
-```{=html}
 <!-- -->
-```
+
 -   **Q20**. What are the top 5 most expensive candy types in the dataset and of these which is the least popular?
 
 ```{r}
@@ -173,9 +170,8 @@ corrplot(cij)
 
     Fruity with chocolate and pluribus with bar
 
-```{=html}
 <!-- -->
-```
+
 -   **Q23**. Similarly, what two variables are most positively correlated?
 
     Chocolate with winpercent, and chocolate with Bar
